@@ -1,2 +1,2 @@
-# hotel-
+# web
 Hotel reservation and management
